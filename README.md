@@ -17,3 +17,7 @@ This simple circuit works as follows: The PCB antenna picks up electromagnetic f
 
 ## PCB
 The PCB features the schematic on the front side and a QR code for [assembly instructions](https://hb9uf.ch/snitch). Components are clearly labeled and assembly is straight forward. See below for images of the board as well as a video of the kit in operation.
+
+![Top Side Render](/contrib/top.svg)
+![Bottom Side Render](/contrib/bottom.svg)
+
